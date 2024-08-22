@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+## Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />
 
 I'm **Roshni**, a passionate developer primarily interested in full-stack development. 🚀 From crafting sleek user interfaces to designing robust backend systems, I thrive on building complete and impactful solutions.
 
