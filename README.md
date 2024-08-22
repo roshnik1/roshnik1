@@ -11,5 +11,5 @@ These activities fuel my creativity and keep me inspired, blending adventure wit
 
 I’m always excited to explore new technologies and frameworks that can elevate the development process and enhance user experiences. Feel free to reach out if you’re up for a chat about full-stack development, want to collaborate on a project, or just wish to share intriguing tech news.
 
-#### Let's connect! 🌟
+### Let's connect! 🌟
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/roshnik1)
