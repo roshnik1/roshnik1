@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />
 
-I'm **Roshni**, a data-driven professional passionate about uncovering insights and turning data into actionable strategies. 📊 From exploring large datasets to creating visualizations that tell a story, I thrive on using data to solve real-world problems and drive impactful decisions.
+I'm [**Roshni**](https://e-portfolio-blond.vercel.app/), a data-driven professional passionate about uncovering insights and turning data into actionable strategies. 📊 From exploring large datasets to creating visualizations that tell a story, I thrive on using data to solve real-world problems and drive impactful decisions.
 
 When I’m not diving into datasets, you can find me:
 
@@ -13,4 +13,4 @@ These activities fuel my creativity and keep me inspired, blending adventure wit
 I’m always eager to dive into new tools, techniques, and methodologies in the data world. Feel free to reach out if you want to chat about data analysis, collaborate on projects, or exchange the latest in tech and analytics.
 
 ### Let's connect! 🌟
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/roshnik1)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/roshnik1/)
