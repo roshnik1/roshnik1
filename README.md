@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />
 
-I'm [**Roshni**](https://e-portfolio-blond.vercel.app/), a data-driven professional passionate about uncovering insights and turning data into actionable strategies. 📊 From exploring large datasets to creating visualizations that tell a story, I thrive on using data to solve real-world problems and drive impactful decisions.
+I'm [**Roshni**](https://roshnik-portfolio.vercel.app/), a data-driven professional passionate about uncovering insights and turning data into actionable strategies. 📊 From exploring large datasets to creating visualizations that tell a story, I thrive on using data to solve real-world problems and drive impactful decisions.
 
 When I’m not diving into datasets, you can find me:
 
